@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="theme">#9C5A32</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="title">#FFFFFF</color>
@@ -7,6 +8,4 @@
     <color name="btn">#C67C4E</color>
     <color name="blackBG">#131313</color>
     <color name="pager">#E4E4E4</color>
-
-
 </resources>
