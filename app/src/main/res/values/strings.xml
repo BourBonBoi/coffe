@@ -1,0 +1,13 @@
+<resources>
+    <string name="tab_text_1"></string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="tab_text_4">Tab 4</string>
+    <string name="app_name">Coffe</string>
+    <string name="start_screen_title">Coffee so good, your taste buds will love it.</string>
+    <string name="start_screen_subtitle">The best grain, the finest roast, the powerful flavor.</string>
+    <string name="start_screen_btn">Get Started</string>
+    <string name="title_activity_tabbed_view">tabbedViewActivity</string>
+    <string name="title_activity_tab">tabActivity</string>
+    <string name="detail">Detail</string>
+</resources>
