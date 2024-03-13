@@ -10,4 +10,5 @@
     <string name="title_activity_tabbed_view">tabbedViewActivity</string>
     <string name="title_activity_tab">tabActivity</string>
     <string name="detail">Detail</string>
+    <string name="sale">Акция!</string>
 </resources>

@@ -65,18 +65,7 @@ public class SectionsPagerAdapter extends FragmentPagerAdapter {
     public CharSequence getPageTitle(int position) {
         return mContext.getResources().getString(TAB_TITLES[position]);
     }
-    /*
-    public CharSequence getPageTitle(int position) {
-        Drawable icon = ContextCompat.getDrawable(mContext, TAB_ICONS[position]);
-        icon.setBounds(0, 0, icon.getIntrinsicWidth(), icon.getIntrinsicHeight());
 
-        SpannableString spannableString = new SpannableString("  " + mContext.getResources().getString(TAB_TITLES[position]));
-        ImageSpan imageSpan = new ImageSpan(icon, ImageSpan.ALIGN_BOTTOM);
-        spannableString.setSpan(imageSpan, 0, 1, Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
-
-        return spannableString;
-    }
-     */
 
     @Override
     public int getCount() {
